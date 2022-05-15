@@ -1,4 +1,4 @@
-#BRAKING SYSTEM
+# BRAKING SYSTEM
 
 Autonomous Braking control is key in developing safe driving systems for the future.There exists a need for autonomous vehicles to negotiate a multi-agent environment while ensuring safety and comfort. A Deep Reinforcement Learning based autonomous  braking system is presented. For each time step, the proposed system makes a decision to apply the brake.
 The  brake is  modelled as continuous action space values. We demonstrate 2 scenarios where there is a need for a sophisticated braking  system, i.e when there is a static obstacle in front of our agent like a car, stop sign. The second scenario consists of 2 vehicles approachingan intersection. The policies for brake  are learned through computer simulationusing Deep deterministic policy gradients. The experiment shows that the system not only avoids acollision, but also it ensures that there is smooth change in the values of brake as it gets out of the emergency situation and abides by the speed regulations, i.e the system resembles human driving.

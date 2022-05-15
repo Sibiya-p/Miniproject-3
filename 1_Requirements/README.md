@@ -1,4 +1,4 @@
-# BRAKEING SYSTEM
+# BRAKING SYSTEM
 ## INTRODUCTION:
 To incorporate control engineering using CAN protocol in STM Microcontrollers and implement the same in BRAKEING subsystems under the Electrical and Control Engineering domain through teleoperation mode. It helps the system to run automatically and aslo with error check. 
 
@@ -24,7 +24,7 @@ f) Simple and Easy to Use.
 ## 4W'S and 1H:
 
 ### Who
-This BRAKEING System can be used in any electric vehicles and those who want their vehicle to be autonomous. 
+This BRAKING System can be used in any electric vehicles and those who want their vehicle to be autonomous. 
 ### What:
 BRAKING System is a software and hardware that helps to run the vehicle automatically without manual control.
 ### When:
@@ -38,7 +38,7 @@ To detect a potential collision and activate the braking system to decelerate th
 ## Swot Analysis:
 ### Opportunities:
 
-The BRAKEING system of most vehicles is an MDPS system. An MDPS system reduces a driver’s effort by providing assist force and return force  using an electric motor. In addition, it is possible to maintain the stoping automatically, and drive autonomously using the MDPS system.
+The BRAKING system of most vehicles is an MDPS system. An MDPS system reduces a driver’s effort by providing assist force and return force  using an electric motor. In addition, it is possible to maintain the stoping automatically, and drive autonomously using the MDPS system.
 
 ### Threats:
 
